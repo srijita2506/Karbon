@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+.env
+SplitMint_Frontend/node_modules/
+SplitMint_Frontend/dist/
+.DS_Store
